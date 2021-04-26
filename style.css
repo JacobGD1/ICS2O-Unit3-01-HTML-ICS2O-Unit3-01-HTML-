@@ -1,9 +1,9 @@
 .hello {
-  font-family: "Times New Roman";
+  font-family: "Times New Roman",Serif;
   color: blue;
 }
 
 .goodbye {
-  font-family: "Arial";
+  font-family: Arial,Serif;
   color: red;
 }
