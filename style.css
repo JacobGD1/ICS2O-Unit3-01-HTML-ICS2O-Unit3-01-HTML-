@@ -1,9 +1,9 @@
 .hello {
-color:blue;
-font-size:200%;
+  font-family: "Times New Roman";
+  color: blue;
 }
 
-#goodbye {
-color:greenyellow;
-font-size:300%;
+.goodbye {
+  font-family: "Arial";
+  color: red;
 }
